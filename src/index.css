@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0%;
+}
+.heading{
+    margin: 10px;
+}
+
+input[type=submit]{
+    background-color: lightgreen;
+    padding: 3px 25px 3px 25px;
+}
+button{
+    background-color: red;
+    padding: 3px 25px 3px 25px;
+    color: white;
+    border-radius: 3px;
+}
+#items-of-todo{
+    padding: 5px;
+        
+}
+#disc-symbol{
+    color:green ;
+  
+}
+
